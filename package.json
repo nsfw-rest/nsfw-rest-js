@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  },
+  "name": "nsfw-rest-js",
+  "description": "The Node.js library for [nsfw.rest](https://nsfw.rest). nsfw.rest is a free to use NSFW scanning tool which means it can detect adult imagery so you can protect your platform.",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsfw-rest/nsfw-rest-js.git"
+  },
+  "keywords": ["nsfw", "scanning", "content moderation", "detection", "ai"],
+  "author": "abcdan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nsfw-rest/nsfw-rest-js/issues"
+  },
+  "homepage": "https://github.com/nsfw-rest/nsfw-rest-js#readme"
+}
