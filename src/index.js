@@ -20,7 +20,7 @@ exports.scanFileLocation = async function(fileLocation) {
 
 async function uploadFile(content) {
     const res = await request.post({
-        url: 'https://scan.nsfw.rest',
+        url: 'https://api.unscan.co/nsfw',
         formData: {
             file: content,
         },

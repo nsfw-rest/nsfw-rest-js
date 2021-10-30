@@ -4,7 +4,7 @@
   },
   "name": "nsfw-rest-js",
   "description": "The Node.js library for [nsfw.rest](https://nsfw.rest). nsfw.rest is a free to use NSFW scanning tool which means it can detect adult imagery so you can protect your platform.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "src/index.js",
   "directories": {
     "example": "example"

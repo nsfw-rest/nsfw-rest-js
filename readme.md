@@ -1,3 +1,6 @@
+# **Deprecated!**
+We're happy to announce that nsfw.rest is moving forward into new types of scanners. We've decided to rename it to `unscan` as it's not only nsfw scans anymore. Head over to [unscan.co](https://unscan.co) for the new system. If you are interested in using unscan with node.js check out the following package: [unscan](https://npmjs.org/package/unscan). You can `npm i unscan` to install the new libray.
+
 # nsfw-rest-js
 The Node.js library for [nsfw.rest](https://nsfw.rest). nsfw.rest is a free to use NSFW scanning tool which means it can detect adult imagery so you can protect your platform.
 
